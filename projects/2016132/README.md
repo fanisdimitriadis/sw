@@ -37,3 +37,28 @@
 
 
 Το βιογραφικο που θα ασχοληθω ειναι αυτο:https://fanisdimitriadis.github.io/resume-cv/?fbclid=IwAR3OvXMF7oDk9t5cbhTWEOrU24nPyxD53rC54gx4FZPlwYAhnm-QzLF2pnE
+
+Συμμετοχικό περιεχόμενο Α1 και Α2
+
+Στο πρώτο συμμετοχικό περιεχόμενο αποφάσισα να ασχοληθώ με το AR and VR σε κατασκευάστηκες και ένα δεύτερο πως μπορεί να βοηθήσει μέσα στα σχολεία 
+
+Manufacturing AR and VR:  
+
+(image)
+160pixels: https://github.com/fanisdimitriadis/images/blob/master/xr-expo-ipDhOQ5gtEk-unsplash%20(1).jpg
+normal: https://github.com/fanisdimitriadis/images/blob/master/xr-expo-ipDhOQ5gtEk-unsplash.jpg
+(gallery)
+https://github.com/fanisdimitriadis/_gallery/blob/master/manufacturing.md
+
+Education painting AR AND VR:
+
+(image)
+160pixels: https://github.com/fanisdimitriadis/images/blob/master/billetto-editorial-YvLd3xbo0ac-unsplash%20(1).jpg
+normal: https://github.com/fanisdimitriadis/images/blob/master/billetto-editorial-YvLd3xbo0ac-unsplash.jpg
+(gallery)
+https://github.com/fanisdimitriadis/_gallery/blob/master/Education_Painting.md
+
+Θεματικές Διαφάνειες: https://github.com/fanisdimitriadis/site/blob/master/_slides/VR-AR%20-ER-peripherals.md
+
+Χρονολόγιο: https://github.com/fanisdimitriadis/site/blob/master/_timeline/An_Idea=Computer.md
+
